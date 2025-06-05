@@ -1,7 +1,7 @@
 {
-  "name": "shadcn-admin",
+  "name": "web-s2mangas",
   "private": false,
-  "version": "1.4.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
